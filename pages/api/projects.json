@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "name": "Face Recognition API",
+    "image": "https://learn.g2.com/hubfs/G2CM_FI454_Learn_Article_Images_%5BFacial_recognition%5D_V1a-1.png",
+    "description": "API Service for face recognition, using deepface, and services are also available for mobile apps and web dashboards",
+    "tags": ["python", "mongodb"],
+    "source_code": "https://github.com/laudryfadian/face-recognition-absensek"
+  },
+  {
+    "id": 2,
+    "name": "AbsenSek App",
+    "image": "https://assets.xfinity.com/assets/dotcom/learn/Images/Hub/Articles/31%20Phone_With_Face_Recognition_image.jpg",
+    "description": "Mobile App with Face Recognition feature",
+    "tags": ["flutter", "api"],
+    "source_code": "https://github.com/laudryfadian/absen_sek"
+  },
+  {
+    "id": 3,
+    "name": "AbsenSek Dashboard",
+    "image": "https://www.datameer.com/wp-content/uploads/2020/02/marketing-dashboard-scaled-1-e1603066051395-924x512.jpg",
+    "description": "Dashboard web for manage AbsenSek app",
+    "tags": ["vuejs", "node", "vuetify", "nuxt"]
+  },
+  {
+    "id": 4,
+    "name": "Persedikab Fanbase APP",
+    "image": "https://www.fifplay.com/img/public/soccer-fan-mobile-games.jpg",
+    "description": "Mobile app for persedikab fanbase supporter",
+    "tags": ["flutter", "api"],
+    "source_code": "https://github.com/laudryfadian/persedikab_final"
+  }
+]
